@@ -13,7 +13,7 @@
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="##sobre-o-projeto"><a/>Sobre o Projeto</h1>
 <span>Projeto desenvolvido em <strong>HTML</strong> e <strong>CSS</strong>.</span>
 <div>
-    <h2>Protótipo apresentado pelo professor:</h2>
+    <h2>Protótipo apresentado pelo professor</h2>
   <img src="https://uidesigndaily.fra1.digitaloceanspaces.com/uploads/1388/day_1388.png" alt="Projeto Original" />
 </div>
 <div>
