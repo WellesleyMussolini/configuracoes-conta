@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/WgcVHst/Screenshot-1.png" alt="Capa do Projeto" />
 
 <h1>Índice/Sumário</h1>
-<li><a href="#sobre">Sobre</a></li>
+<li><a href="##sobre-o-projeto">Sobre</a></li>
 <li>Sumário</li>
 <li>Requisitos Funcionais</li>
 <li>Tecnologias Usadas</li>
@@ -12,7 +12,7 @@
 <li>Licença</li>
 <li>Agradecimentos</li>
 
-<h1 dir="auto"><a aria-hidden="true" class="anchor" href="#sobre">Sobre o Projeto<a/></h1>
+<h1 dir="auto"><a aria-hidden="true" class="anchor" href="##sobre-o-projeto">Sobre o Projeto<a/></h1>
 <span>Projeto desenvolvido em <strong>HTML</strong> e <strong>CSS</strong>.</span>
 <div>
   <span>Protótipo apresentado pelo professor:</span>
