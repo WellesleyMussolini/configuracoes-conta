@@ -1,5 +1,4 @@
 # Configurações de conta
-<h2>Resultado do Protótipo</h2>
 
 <h1>Índice/Sumário</h1>
 <li><a href="#sobre-o-projeto">Sobre</a></li>
@@ -14,11 +13,11 @@
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="##sobre-o-projeto"><a/>Sobre o Projeto</h1>
 <span>Projeto desenvolvido em <strong>HTML</strong> e <strong>CSS</strong>.</span>
 <div>
-  <span>Protótipo apresentado pelo professor:</span>
+    <h2>Protótipo apresentado pelo professor:</h2>
   <img src="https://uidesigndaily.fra1.digitaloceanspaces.com/uploads/1388/day_1388.png" alt="Projeto Original" />
 </div>
 <div>
-  <span>Resultado do protótipo desenvolvido:</span>
+  <h2>Resultado do Protótipo</h2>
   <img src="https://i.ibb.co/WgcVHst/Screenshot-1.png" alt="Capa do Projeto" />
 </div>
 <div>
