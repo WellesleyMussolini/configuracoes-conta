@@ -32,3 +32,4 @@
         <strong>Cadastrar Usuário</strong>
     </li>
 </ul>
+    <input type="text" placeholder="gay" />
