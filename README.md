@@ -2,8 +2,7 @@
 
 <h1>Índice/Sumário</h1>
 <li><a href="#sobre-o-projeto">Sobre</a></li>
-<li>Sumário</li>
-<li>Requisitos Funcionais</li>
+<li><a href="#requisitos-funcionais"></a>Requisitos Funcionais</li>
 <li>Tecnologias Usadas</li>
 <li>Contribuição</li>
 <li>Autores</li>
@@ -25,3 +24,9 @@
   <span>curso: "Sistemas de Informação".</span>
 </div>
  <h4 align="center">Desafio concluído!</h4>
+
+<h1 dir="auto"><a aria-hidden="true" class="anchor" href="#requisitos-funcionais"><a/>Requisitos Funcionais</h1>
+<li>
+    <input type="checkbox" disabled checked />
+    <strong>Cadastrar Usuário</strong>
+</li>
