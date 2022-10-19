@@ -1,6 +1,5 @@
 # Configurações de conta
 <h2>Resultado do Protótipo</h2>
-<img src="https://i.ibb.co/WgcVHst/Screenshot-1.png" alt="Capa do Projeto" />
 
 <h1>Índice/Sumário</h1>
 <li><a href="#sobre-o-projeto">Sobre</a></li>
@@ -19,6 +18,11 @@
   <img src="https://uidesigndaily.fra1.digitaloceanspaces.com/uploads/1388/day_1388.png" alt="Projeto Original" />
 </div>
 <div>
+  <span>Resultado do protótipo desenvolvido:</span>
+  <img src="https://i.ibb.co/WgcVHst/Screenshot-1.png" alt="Capa do Projeto" />
+</div>
+<div>
   <span>Desafio elaborado pelo professor Diego Augusto.</span>
+  <span>curso: "Sistemas de Informação".</span>
 </div>
  <h4>Desafio concluído!</h4>
