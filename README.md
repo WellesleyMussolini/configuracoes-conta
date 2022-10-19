@@ -1,2 +1,2 @@
 # Configurações de conta
-<img src="https://ibb.co/bzrb67J" />
+<img src="https://i.ibb.co/WgcVHst/Screenshot-1.png" />
