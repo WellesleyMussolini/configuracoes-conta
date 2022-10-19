@@ -11,7 +11,7 @@
 <li>Licença</li>
 <li>Agradecimentos</li>
 
-<h1 dir="auto"><a aria-hidden="true" class="anchor" href="##sobre-o-projeto">Sobre o Projeto<a/></h1>
+<h1 dir="auto"><a aria-hidden="true" class="anchor" href="##sobre-o-projeto"><a/>Sobre o Projeto</h1>
 <span>Projeto desenvolvido em <strong>HTML</strong> e <strong>CSS</strong>.</span>
 <div>
   <span>Protótipo apresentado pelo professor:</span>
