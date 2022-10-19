@@ -26,8 +26,11 @@
 <h4 align="center">Desafio concluído!</h4>
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#requisitos-funcionais"><a/>Requisitos Funcionais</h1>
-<li>
-    <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="">
-    <strong>Cadastrar Usuário</strong>
-</li>
-<button>EAE</button>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <strong>Cadastrar Usuário</strong></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <strong>Fazer Login</strong></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Matricular em Curso</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Cancelar Matricula</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Visualizar Notas</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Visualizar e Atualizar Informações do Estudante</li>
+</ul>
