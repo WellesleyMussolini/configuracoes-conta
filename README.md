@@ -2,7 +2,7 @@
 
 <h1>Índice/Sumário</h1>
 <li><a href="#sobre-o-projeto">Sobre</a></li>
-<li><a href="#requisitos-funcionais"></a>Requisitos Funcionais</li>
+<li><a href="#requisitos-funcionais">Requisitos Funcionais</a></li>
 <li>Tecnologias Usadas</li>
 <li>Contribuição</li>
 <li>Autores</li>
@@ -26,9 +26,6 @@
  <h4 align="center">Desafio concluído!</h4>
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#requisitos-funcionais"><a/>Requisitos Funcionais</h1>
-            <input type="checkbox"  />
-            <input type="password"  />
-            <input type="text"  />
 <ul class="contains-task-list">
     <li class="task-list-item">
         <input type="checkbox"  />
