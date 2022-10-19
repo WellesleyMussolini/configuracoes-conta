@@ -27,6 +27,7 @@
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#requisitos-funcionais"><a/>Requisitos Funcionais</h1>
 <li>
+    <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="">
     <strong>Cadastrar Usuário</strong>
 </li>
 <button>EAE</button>
