@@ -34,3 +34,9 @@
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Visualizar Notas</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Visualizar e Atualizar Informações do Estudante</li>
 </ul>
+
+<h1 dir="auto"><a aria-hidden="true" class="anchor" href="#tecnologias-usadas"><a/>Tecnologias Usadas</h1>
+<ul class="contains-task-list">
+<li class="task-list-item"><strong>HTML</strong></li>
+<li class="task-list-item"> <strong>CSS</strong></li>
+</ul>
