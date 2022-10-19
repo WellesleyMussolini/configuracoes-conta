@@ -23,14 +23,10 @@
   <span>Desafio elaborado pelo professor Diego Augusto.</span>
   <span>curso: "Sistemas de Informação".</span>
 </div>
-<input type="text" />
 <h4 align="center">Desafio concluído!</h4>
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#requisitos-funcionais"><a/>Requisitos Funcionais</h1>
-<ul>
-    <li>
-        <button>EAE</button>
-        <strong>Cadastrar Usuário</strong>
-    </li>
-</ul>
-    <input type="text" placeholder="gay" />
+<li>
+    <strong>Cadastrar Usuário</strong>
+</li>
+<button>EAE</button>
