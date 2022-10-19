@@ -26,9 +26,9 @@
  <h4 align="center">Desafio concluído!</h4>
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#requisitos-funcionais"><a/>Requisitos Funcionais</h1>
-<ul class="contains-task-list">
-    <li class="task-list-item">
-        <input type="checkbox"  />
+<ul>
+    <li>
+        <button>EAE</button>
         <strong>Cadastrar Usuário</strong>
     </li>
 </ul>
