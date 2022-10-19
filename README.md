@@ -24,4 +24,4 @@
   <span>Desafio elaborado pelo professor Diego Augusto.</span>
   <span>curso: "Sistemas de Informação".</span>
 </div>
- <h4>Desafio concluído!</h4>
+ <h4 style="text-align=center">Desafio concluído!</h4>
