@@ -6,8 +6,7 @@
 <li><a href="#tecnologias-usadas">Tecnologias Usadas</a></li>
 <li><a href="#contribuição">Contribuição</a></li>
 <li><a href="#autores">Autores</a></li>
-<li>Licença</li>
-<li>Agradecimentos</li>
+<li><a href="#licença">Licença</a></li>
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="##sobre-o-projeto"><a/>Sobre o Projeto</h1>
 <span>Projeto desenvolvido em <strong>HTML</strong> e <strong>CSS</strong>.</span>
@@ -49,3 +48,7 @@
 <h1><a href="#autores"></a>Autores</h1>
     
 <td align="center"><a href="https://github.com/WellesleyMussolini"><img src="https://avatars.githubusercontent.com/u/76730007?v=4" width="50" alt="Wellesley Mussolini"><br><sub><b>Wellesley Mussolini</b></sub></a><br></td>
+
+<h1><a href="#licença"></a>Linceça</h1>
+
+<p dir="auto">Este projeto está licenciado sob a Licença MIT, consulte o arquivo <a href="/LICENSE">LICENSE</a> para mais detalhes.</p>
