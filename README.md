@@ -43,16 +43,10 @@
     
 <h1><a href="#contribuição"><a/>Contribuição</h1>
 
-<div style="display: flex; flex-direction: row;">
-    <img src="https://avatars.githubusercontent.com/u/76730007?v=4" alt="wellesley-mussolini" width="50" />
-    <p>Wellesley Mussolini</p>
-</div>
-<!-- 
-Autores
-Exemplo
 
-Licença
-Este projeto está licenciado sob a Licença MIT, consulte o arquivo LICENSE.md para mais detalhes.
 
-Agradecimentos
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto. -->
+    <div styles="display: flex">
+        <img src="https://avatars.githubusercontent.com/u/76730007?v=4" alt="wellesley-mussolini" width="50" />
+        <p>Wellesley Mussolini</p>
+    </div>
+
