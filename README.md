@@ -44,7 +44,7 @@
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#contribuição"><a/>Contribuição</h1>
 <p align="center">
     <div style="display: flex"></div>
-    <img src="https://avatars.githubusercontent.com/u/76730007?v=4" alt="wellesley-mussolini" styles="width: 100px" />
+    <img src="https://avatars.githubusercontent.com/u/76730007?v=4" alt="wellesley-mussolini" width="50" />
     <p>Wellesley Mussolini</p>
 </p>
 <!-- 
