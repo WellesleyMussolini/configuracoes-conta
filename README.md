@@ -41,7 +41,7 @@
 </ul>
 
     
-<h1 dir="auto"><a aria-hidden="true" class="anchor" href="#contribuicao"><a/>Contribuição</h1>
+<h1 dir="auto"><a aria-hidden="true" class="anchor" href="#requisitos-funcionais"><a/>Contribuição</h1>
 Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 
 Autores
