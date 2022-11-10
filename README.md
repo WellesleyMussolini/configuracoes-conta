@@ -35,6 +35,7 @@
 - [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haley
+ <input type="checkbox" checked>
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#tecnologias-usadas"><a/>Tecnologias Usadas</h1>
 <ul class="contains-task-list">
