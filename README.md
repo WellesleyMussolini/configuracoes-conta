@@ -4,7 +4,7 @@
 <li><a href="#sobre-o-projeto">Sobre</a></li>
 <li><a href="#requisitos-funcionais">Requisitos Funcionais</a></li>
 <li><a href="#tecnologias-usadas">Tecnologias Usadas</a></li>
-<li><a href="#contribuicao">Contribuição</a></li>
+<li><a href="#contribuição">Contribuição</a></li>
 <li>Autores</li>
 <li>Licença</li>
 <li>Agradecimentos</li>
@@ -41,9 +41,10 @@
 </ul>
 
     
-<h1 dir="auto"><a aria-hidden="true" class="anchor" href="#requisitos-funcionais"><a/>Contribuição</h1>
-Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
+<h1 dir="auto"><a aria-hidden="true" class="anchor" href="#contribuição"><a/>Contribuição</h1>
 
+<p>VAZIO</p>
+<!-- 
 Autores
 Exemplo
 
@@ -51,4 +52,4 @@ Licença
 Este projeto está licenciado sob a Licença MIT, consulte o arquivo LICENSE.md para mais detalhes.
 
 Agradecimentos
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto. -->
