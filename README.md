@@ -1,5 +1,15 @@
 # Configurações de conta
 
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
 <h1>Índice/Sumário</h1>
 <li><a href="#sobre-o-projeto">Sobre</a></li>
 <li><a href="#requisitos-funcionais">Requisitos Funcionais</a></li>
@@ -27,15 +37,6 @@
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#requisitos-funcionais"><a/>Requisitos Funcionais</h1>
 <ul class="contains-task-list">
-    - [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox">Cadastrar Usuário</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox">Fazer Login</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Matricular em Curso</li>
