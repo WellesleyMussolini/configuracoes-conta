@@ -27,7 +27,7 @@
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#requisitos-funcionais"><a/>Requisitos Funcionais</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <strong>Cadastrar Usuário</strong></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked> <strong>Cadastrar Usuário</strong></li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <strong>Fazer Login</strong></li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Matricular em Curso</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Cancelar Matricula</li>
