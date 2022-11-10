@@ -40,7 +40,8 @@
     <li class="task-list-item"> <strong>CSS</strong></li>
 </ul>
 
-    <h1><a href="#contribuicao"></a>Contribuição</h1>
+    
+<h1><a href="#contribuicao"></a>Contribuição</h1>
 Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 
 Autores
