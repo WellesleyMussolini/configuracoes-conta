@@ -3,7 +3,7 @@
 <h1>Índice/Sumário</h1>
 <li><a href="#sobre-o-projeto">Sobre</a></li>
 <li><a href="#requisitos-funcionais">Requisitos Funcionais</a></li>
-<li>Tecnologias Usadas</li>
+<li><a href="contribuicao"></a>Tecnologias Usadas</li>
 <li>Contribuição</li>
 <li>Autores</li>
 <li>Licença</li>
