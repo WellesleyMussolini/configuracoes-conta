@@ -5,7 +5,7 @@
 <li><a href="#requisitos-funcionais">Requisitos Funcionais</a></li>
 <li><a href="#tecnologias-usadas">Tecnologias Usadas</a></li>
 <li><a href="#contribuição">Contribuição</a></li>
-<li>Autores</li>
+<li><a href="#autores">Autores</a></li>
 <li>Licença</li>
 <li>Agradecimentos</li>
 
@@ -40,10 +40,8 @@
     <li class="task-list-item"> <strong>CSS</strong></li>
 </ul>
 
-<h1><a href="#contribuição"><a/>Contribuição</h1>
+<h1><a href="#contribuição"></a>Contribuição</h1>
 
-<!-- <td align="center"><a href="https://github.com/WellesleyMussolini" rel="nofollow">
-<img src="https://avatars.githubusercontent.com/u/76730007?v=4" width="50;" alt="Wellesley Mussolini" />
-<br><sub><b>Wellesley Mussolini</b> -->
+<h1><a href="#autores"></a>Autores</h1>
     
 <td align="center"><a href="https://github.com/WellesleyMussolini"><img src="https://avatars.githubusercontent.com/u/76730007?v=4" width="50" alt="Wellesley Mussolini"><br><sub><b>Wellesley Mussolini</b></sub></a><br></td>
