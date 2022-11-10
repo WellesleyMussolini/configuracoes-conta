@@ -41,5 +41,6 @@
 </ul>
 
 <h1><a href="#contribuição"><a/>Contribuição</h1>
-
+<li>
 <a href="https://github.com/WellesleyMussolini"><img src="https://avatars.githubusercontent.com/u/76730007?v=4" alt="wellesley-mussolini" width="50" /></a>
+</li>
