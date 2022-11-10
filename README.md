@@ -42,7 +42,7 @@
 
 <h1><a href="#contribuição"><a/>Contribuição</h1>
 
-<div dir="none" class="colaboradores" style="display: flex">
+<div class="colaboradores" style="display: flex">
     <img src="https://avatars.githubusercontent.com/u/76730007?v=4" alt="wellesley-mussolini" width="50" />
     <p>Wellesley Mussolini</p>
 </div>
