@@ -9,6 +9,13 @@
 <li>Licença</li>
 <li>Agradecimentos</li>
 
+<h1><a href="#contribuição"><a/>Contribuição</h1>
+
+<div styles="display: flex">
+    <img src="https://avatars.githubusercontent.com/u/76730007?v=4" alt="wellesley-mussolini" width="50" />
+    <p>Wellesley Mussolini</p>
+</div>
+
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="##sobre-o-projeto"><a/>Sobre o Projeto</h1>
 <span>Projeto desenvolvido em <strong>HTML</strong> e <strong>CSS</strong>.</span>
 <div>
@@ -41,12 +48,5 @@
 </ul>
 
     
-<h1><a href="#contribuição"><a/>Contribuição</h1>
 
-
-
-<div styles="display: flex">
-    <img src="https://avatars.githubusercontent.com/u/76730007?v=4" alt="wellesley-mussolini" width="50" />
-    <p>Wellesley Mussolini</p>
-</div>
 
