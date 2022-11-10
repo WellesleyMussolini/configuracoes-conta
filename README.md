@@ -43,8 +43,5 @@
 <h1><a href="#contribuição"><a/>Contribuição</h1>
 
 <td align="center"><a href="https://github.com/WellesleyMussolini" rel="nofollow">
-<img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="100px;" alt="Kent C. Dodds" style="max-width: 100%;">
+<img src="https://avatars.githubusercontent.com/u/76730007?v=4" width="50;" alt="Wellesley Mussolini" />
 <br><sub><b>Wellesley Mussolini</b>
-<li>
-<a href="https://github.com/WellesleyMussolini"><img src="https://avatars.githubusercontent.com/u/76730007?v=4" alt="wellesley-mussolini" width="40" /></a>
-</li>
