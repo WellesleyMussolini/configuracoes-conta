@@ -11,14 +11,18 @@
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="##sobre-o-projeto"><a/>Sobre o Projeto</h1>
 <span>Projeto desenvolvido em <strong>HTML</strong> e <strong>CSS</strong>.</span>
+
+<div style="display: grid; grid-template-collumns: 1fr 1fr">
 <div>
     <h2>Protótipo apresentado pelo professor:</h2>
-  <img src="https://uidesigndaily.fra1.digitaloceanspaces.com/uploads/1388/day_1388.png" alt="Projeto Original" />
+  <img src="https://uidesigndaily.fra1.digitaloceanspaces.com/uploads/1388/day_1388.png" alt="Projeto Original" width="100" />
 </div>
 <div>
   <h2>Resultado do Protótipo:</h2>
-  <img src="https://i.ibb.co/WgcVHst/Screenshot-1.png" alt="Capa do Projeto" />
+  <img src="https://i.ibb.co/WgcVHst/Screenshot-1.png" alt="Capa do Projeto" width="100" />
 </div>
+</div>
+    
 <div>
   <span>Desafio elaborado pelo professor Diego Augusto.</span>
   <span>curso: "Sistemas de Informação".</span>
