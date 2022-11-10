@@ -27,10 +27,10 @@
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#requisitos-funcionais"><a/>Requisitos Funcionais</h1>
  
-- [ ] Cadastrar Usuário
+- [x] Cadastrar Usuário
 - [x] Fazer Login
-- [x] Matricular em Curso
-- [x] Cancelar Matricula
+- [ ] Matricular em Curso
+- [ ] Cancelar Matricula
 - [ ] Visualizar Notas
 - [ ] Visualizar e Atualizar Informações do Estudante
 
