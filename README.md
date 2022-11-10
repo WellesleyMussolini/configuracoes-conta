@@ -44,7 +44,7 @@
 
 <h1><a href="#contribuição"></a>Contribuição</h1>
 
-<p>Leia o arquivo <a href="/WellesleyMussolini/configuracoes-conta/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a> para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações <em>pull</em> (<em>Pull Request</em>) para nós.</p>
+<p>Leia o arquivo <a href="/CONTRIBUTING.md">CONTRIBUTING.md</a> para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações <em>pull</em> (<em>Pull Request</em>) para nós.</p>
 
 <h1><a href="#autores"></a>Autores</h1>
     
