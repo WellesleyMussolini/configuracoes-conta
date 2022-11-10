@@ -1,16 +1,5 @@
 # Configurações de conta
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
-
-
 <h1>Índice/Sumário</h1>
 <li><a href="#sobre-o-projeto">Sobre</a></li>
 <li><a href="#requisitos-funcionais">Requisitos Funcionais</a></li>
@@ -19,16 +8,6 @@
 <li>Autores</li>
 <li>Licença</li>
 <li>Agradecimentos</li>
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="##sobre-o-projeto"><a/>Sobre o Projeto</h1>
 <span>Projeto desenvolvido em <strong>HTML</strong> e <strong>CSS</strong>.</span>
@@ -47,16 +26,13 @@
 <h4 align="center">Desafio concluído!</h4>
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#requisitos-funcionais"><a/>Requisitos Funcionais</h1>
-    
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+ 
+- [ ] Cadastrar Usuário
+- [x] Fazer Login
+- [x] Matricular em Curso
+- [x] Cancelar Matricula
+- [ ] Visualizar Notas
+- [ ] Visualizar e Atualizar Informações do Estudante
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#tecnologias-usadas"><a/>Tecnologias Usadas</h1>
 <ul class="contains-task-list">
