@@ -12,11 +12,11 @@
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="##sobre-o-projeto"><a/>Sobre o Projeto</h1>
 <span>Projeto desenvolvido em <strong>HTML</strong> e <strong>CSS</strong>.</span>
 <div>
-    <h2>Protótipo apresentado pelo professor</h2>
+    <h2>Protótipo apresentado pelo professor:</h2>
   <img src="https://uidesigndaily.fra1.digitaloceanspaces.com/uploads/1388/day_1388.png" alt="Projeto Original" />
 </div>
 <div>
-  <h2>Resultado do Protótipo</h2>
+  <h2>Resultado do Protótipo:</h2>
   <img src="https://i.ibb.co/WgcVHst/Screenshot-1.png" alt="Capa do Projeto" />
 </div>
 <div>
@@ -42,8 +42,10 @@
 
     
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#contribuição"><a/>Contribuição</h1>
-
-<p>VAZIO</p>
+<p align="center">
+    <img src="https://avatars.githubusercontent.com/u/76730007?v=4" alt="wellesley-mussolini" />
+    <p>Wellesley Mussolini</p>
+</p>
 <!-- 
 Autores
 Exemplo
