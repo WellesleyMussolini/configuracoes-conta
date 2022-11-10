@@ -42,8 +42,8 @@
 
 <h1><a href="#contribuição"><a/>Contribuição</h1>
 
-<td align="center"><a href="https://github.com/WellesleyMussolini" rel="nofollow">
+<!-- <td align="center"><a href="https://github.com/WellesleyMussolini" rel="nofollow">
 <img src="https://avatars.githubusercontent.com/u/76730007?v=4" width="50;" alt="Wellesley Mussolini" />
-<br><sub><b>Wellesley Mussolini</b>
+<br><sub><b>Wellesley Mussolini</b> -->
     
 <td align="center"><a href="https://github.com/thchia"><img src="https://avatars2.githubusercontent.com/u/21194045?v=4?s=100" width="100px;" alt="Thomas Chia" style="max-width: 100%;"><br><sub><b>Thomas Chia</b></sub></a><br><a href="https://github.com/testing-library/react-testing-library/commits?author=thchia" title="Code"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></a> <a href="https://github.com/testing-library/react-testing-library/commits?author=thchia" title="Documentation"><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji></a></td>
