@@ -36,6 +36,18 @@
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#tecnologias-usadas"><a/>Tecnologias Usadas</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><strong>HTML</strong></li>
-<li class="task-list-item"> <strong>CSS</strong></li>
+    <li class="task-list-item"><strong>HTML</strong></li>
+    <li class="task-list-item"> <strong>CSS</strong></li>
 </ul>
+
+    <h1><a href="#contribuicao"></a>Contribuição</h1>
+Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
+
+Autores
+Exemplo
+
+Licença
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo LICENSE.md para mais detalhes.
+
+Agradecimentos
+Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
