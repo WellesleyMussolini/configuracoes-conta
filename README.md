@@ -45,3 +45,5 @@
 <td align="center"><a href="https://github.com/WellesleyMussolini" rel="nofollow">
 <img src="https://avatars.githubusercontent.com/u/76730007?v=4" width="50;" alt="Wellesley Mussolini" />
 <br><sub><b>Wellesley Mussolini</b>
+    
+<td align="center"><a href="https://github.com/WellesleyMussolini"><img src="https://avatars.githubusercontent.com/u/76730007?v=4" width="50" alt="Wellesley Mussolini"><br><sub><b>Wellesley Mussolini</b></sub></a><br><a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></a> <a href="https://github.com/testing-library/react-testing-library/commits?author=thchia" title="Documentation"><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji></a></td>
