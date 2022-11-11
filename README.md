@@ -17,7 +17,7 @@
 </div>
 <div>
   <h2>Resultado do Protótipo:</h2>
-  <img src="https://i.ibb.co/WgcVHst/Screenshot-1.png" alt="Capa do Projeto" />
+  <img src="https://i.ibb.co/WgcVHst/Screenshot-1.png" alt="Resultado do Projeto" />
 </div>
     
 <div>
