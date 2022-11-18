@@ -46,6 +46,10 @@
 <p>Leia o arquivo <a href="/CONTRIBUTING.md">CONTRIBUTING.md</a> para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações <em>pull</em> (<em>Pull Request</em>) para nós.</p>
 
 <h1><a href="#autores"></a>Autores</h1>
+
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/76730007?v=4" width="50" alt="Wellesley Mussolini">
+</p>
     
 <td align="center"><a href="https://github.com/WellesleyMussolini"><img src="https://avatars.githubusercontent.com/u/76730007?v=4" width="50" alt="Wellesley Mussolini"><br><sub><b>Wellesley Mussolini</b></sub></a><br></td>
 
