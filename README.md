@@ -46,11 +46,11 @@
 <p>Leia o arquivo <a href="/CONTRIBUTING.md">CONTRIBUTING.md</a> para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações <em>pull</em> (<em>Pull Request</em>) para nós.</p>
 
 <h1><a href="#autores"></a>Autores</h1>
-<div style="display: flex; flex-direction: row">    
+    
 <td align="center"><a href="https://github.com/WellesleyMussolini"><img src="https://avatars.githubusercontent.com/u/76730007?v=4" width="50" alt="Wellesley Mussolini"><br><sub><b>Wellesley Mussolini</b></sub></a><br></td>
 
 <td align="center"><a href="https://github.com/Almadavic"><img src="https://avatars.githubusercontent.com/u/85299065?v=4" width="50" alt="Almadavic"><br><sub><b>Victor Almada</b></sub></a><br></td>
-</div>
+
 <h1><a href="#licença"></a>Licença</h1>
 
 <p dir="auto">Este projeto está licenciado sob a Licença MIT, consulte o arquivo <a href="/LICENSE">LICENSE</a> para mais detalhes.</p>
